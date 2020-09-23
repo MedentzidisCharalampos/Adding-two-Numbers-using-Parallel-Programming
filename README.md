@@ -1,2 +1,4 @@
 # Adding-two-Numbers-using-Parallel-Programming
-A simple application that a adds two numbers using the Cuda library
+Parallel Programming in CUDA C/C++
+
+The hello world of gpu programming
